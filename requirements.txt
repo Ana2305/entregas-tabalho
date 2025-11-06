@@ -1,0 +1,12 @@
+flask
+flask_sqlalchemy
+flask_cors
+flask_jwt_extended
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+reportlab
+openpyxl
+python-dotenv
