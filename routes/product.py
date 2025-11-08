@@ -3,7 +3,7 @@ from flask_jwt_extended import jwt_required
 from models import db
 from models.product import Product
 
-product_bp = Blueprint('product', __name__, url_prefix='/products', strict_slashes=False)
+product_bp = Blueprint('product', __name__, url_prefix='/products')
 
 
 
